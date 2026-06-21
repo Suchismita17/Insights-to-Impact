@@ -19,7 +19,8 @@ This repository showcases end-to-end Power BI projects focused on solving real-w
 
 📌 Clear storytelling with actionable outcomes
 
- 🚀 **_Featured Projects_**
+
+ ## 🚀 Featured Projects
 
 #### 1. SmartWave Mobile Sales Dashboard  
 ![Dashboard](assets/Mobile_Dashboard.png)
@@ -28,7 +29,7 @@ This repository showcases end-to-end Power BI projects focused on solving real-w
 
 👩‍💻 **_Author’s Statement_**
 
-These projects demonstrates my ability to:
+**These projects demonstrates my ability to:**
 
 • Translate business problems into analytical solutions  
 • Design intuitive and interactive dashboards  
