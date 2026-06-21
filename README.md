@@ -1,8 +1,8 @@
-# Insights-to-Impact
+## Insights-to-Impact
 
-### 📊 Business Analytics Portfolio 
+### 📊 Business Analytics Portfolio :
 
-A portfolio of business-focused analytics projects transforming data into strategic, actionable insights using **Power BI.**
+A portfolio of business-focused analytics projects transforming data into actionable insights using **Power BI.**
 
 📊 **_Turning Data into Business Decisions_**
 
@@ -11,14 +11,10 @@ This repository showcases end-to-end Power BI projects focused on solving real-w
 
 🔍 **_What You'll Find Here_**
 
-📈 Data-driven business insights
-
-📊 Interactive Power BI dashboards
-
-🧠 Analytical problem-solving approach
-
-📌 Clear storytelling with actionable outcomes
-
+* Data-driven business insights
+* Interactive Power BI dashboards
+* Analytical problem-solving approach
+* Clear storytelling with actionable outcomes
 
  ## 🚀 Featured Projects
 
