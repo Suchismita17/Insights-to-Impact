@@ -1,7 +1,8 @@
 # Insights-to-Impact
-A portfolio of business-focused analytics projects transforming data into strategic, actionable insights using Power BI.
 
-**Insight-to-Impact: Business-Driven Analytics Portfolio | Power BI Projects**
+### 📊 Business Analytics Portfolio 
+
+A portfolio of business-focused analytics projects transforming data into strategic, actionable insights using **Power BI.**
 
 📊 **_Turning Data into Business Decisions_**
 
@@ -17,6 +18,13 @@ This repository showcases end-to-end Power BI projects focused on solving real-w
 🧠 Analytical problem-solving approach
 
 📌 Clear storytelling with actionable outcomes
+
+ 🚀 **_Featured Projects_**
+
+#### 1. SmartWave Mobile Sales Dashboard  
+![Dashboard](assets/Mobile_Dashboard.png)
+
+🔗 [View Project](Smartwave-Mobile-Sales-Dashboard)
 
 👩‍💻 **_Author’s Statement_**
 
