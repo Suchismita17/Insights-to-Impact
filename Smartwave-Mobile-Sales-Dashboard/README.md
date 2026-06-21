@@ -1,5 +1,11 @@
 ## 📱 SmartWave Mobile Sales Analytics & Market Intelligence Dashboard
 
+### 📊 Dashboard Preview
+
+<p align="center">
+  <img src="../assets/Mobile_Dashboard.png" width="900"/>
+</p>
+
 ### 1. 🎯Introduction
 
 The smartphone industry is characterized by rapid technological advancements, intense competition, and evolving consumer preferences. Organizations operating in this domain require robust analytical tools to monitor performance and adapt strategies in real time.
