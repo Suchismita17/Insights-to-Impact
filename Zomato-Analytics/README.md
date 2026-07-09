@@ -1,7 +1,7 @@
 <h2 align="center">🍽️ Zomato Revenue Intelligence & Operational Risk Analytics</h2>
 
 <p align="center">
-  <img src="assets/Home_pg.png" width="750"/>
+  <img src="assets/Home_pg.png" width="800"/>
 </p>
 
 <p align="center">
@@ -105,7 +105,6 @@ This approach ensures that every insight directly contributes to solving the cor
 * **pandas** – Data manipulation
 * **nltk** – Text processing
 * **textblob** – Sentiment scoring
-* **vaderSentiment** – Rule-based sentiment analysis
 * **openpyxl / xlrd** – Excel integration
 
 ---
@@ -250,8 +249,9 @@ Customer Feedbacks were analyzed to understand **experience and satisfaction tre
 
 #### Sentiment Analysis Tools:
 
-* **TextBlob** – Polarity scoring
-* **VADER** – Rule-based sentiment analysis
+* Cleaned text data using regex
+* Applied lexicon-based NLP (TextBlob) for sentiment classification and scoring of customer feedback
+* Exported results for Power BI dashboard integration
 
 #### Output Classification:
 
@@ -272,7 +272,7 @@ Each page is designed as a **decision-making unit**, combining insights with bus
 #### 🟩 Page 1
 
 <p align="center">
-  <img src="assets/Home_pg.png" width="700"/>
+  <img src="assets/Home_pg.png" width="800"/>
 </p>
 
 * ₹29.84M revenue generated, with a **37.05% refund rate**, indicating significant revenue leakage
@@ -282,12 +282,12 @@ Each page is designed as a **decision-making unit**, combining insights with bus
 ---
 ### ⚠️ Operational Risk 
 <a id="operational-risk"></a>
-#### 🟩 Page 2
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 2 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+
 
 
 <p align="center">
-  <img src="assets/Operational_Risk.png" width="700"/>
+  <img src="assets/Operational_Risk.png" width="800"/>
 </p>
 
 This page focuses on risk identification and behavioral patterns 
@@ -306,11 +306,10 @@ This page focuses on risk identification and behavioral patterns
 ---
 ### 🚚 Delivery Performance
 <a id="delivery-performance"></a>
-#### 🟩 Page 3
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 3 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
 <p align="center">
-  <img src="assets/Delivery_Performance.png" width="700"/>
+  <img src="assets/Delivery_Performance.png" width="800"/>
 </p>
 
 This page provides a comprehensive analysis of delivery performance, focusing on delay patterns, refund risks, and customer experience across cities, order methods, and time.
@@ -325,11 +324,10 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 ---
 ### 🍽️ Cuisine
 <a id="cuisine"></a>
-#### 🟩 Page 4
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 4 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
 <p align="center">
-  <img src="assets/Cuisine_Analysis.png" width="700"/>
+  <img src="assets/Cuisine_Analysis.png" width="800"/>
 </p>
 
 #### 🔍 Key Insights
@@ -347,11 +345,10 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 ---
  ### 🏪 Restaurant
  <a id="restaurant"></a>
- #### 🟩 Page 5
- <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
-
+ #### 🟩 Page 5 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+ 
 <p align="center">
-  <img src="assets/Restaurant_Performance.png" width="700"/>
+  <img src="assets/Restaurant_Performance.png" width="800"/>
 </p>
 
 #### 🔍 Key Insights
@@ -365,11 +362,11 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 ---
 ### 💳 Payment
 <a id="payment"></a>
-#### 🟩 Page 6
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 6 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+
 
 <p align="center">
-  <img src="assets/Payment_Analysis.png" width="700"/>
+  <img src="assets/Payment_Analysis.png" width="800"/>
 </p>
 
 👉 This page answers:
@@ -391,11 +388,11 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 ---
 ### 🔁 Repeat Customer
 <a id="repeat-customer"></a>
-#### 🟩 Page 7
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 7 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+
 
 <p align="center">
-  <img src="assets/Repeat_Analysis.png" width="700"/>
+  <img src="assets/Repeat_Analysis.png" width="800"/>
 </p>
 
 #### 🔍 Key Insights
@@ -413,11 +410,10 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 ---
 ### 🌍HeatMap
 <a id="heatmap"></a>
-#### 🟩 Page 8
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 8 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
 <p align="center">
-  <img src="assets/Heat_Map.png" width="700"/>
+  <img src="assets/Heat_Map.png" width="800"/>
 </p>
 
 #### 🔍 Key Insights
@@ -434,11 +430,10 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 ---
 ### 🎯Strategy
 <a id="strategy"></a>
-#### 🟩 Page 9
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 9 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
 <p align="center">
-  <img src="assets/Strategy.png" width="700"/>
+  <img src="assets/Strategy.png" width="800"/>
 </p>
 
 #### 🔍 Key Insights
@@ -456,11 +451,10 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 ---
 ### 🧠Sentiment-Analysis
 <a id="sentiment-analysis"></a>
-#### 🟩 Page 10
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 10 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
 <p align="center">
-  <img src="assets/Sentiment_Analysis.png" width="700"/>
+  <img src="assets/Sentiment_Analysis.png" width="800"/>
 </p>
 
 👉 This page connects **customer emotions → operational performance → revenue impact.**
@@ -547,11 +541,10 @@ A large neutral segment exists that:
 ---
 ###  📊 Summary
 <a id="summary"></a>
-#### 🟩 Page 11
-<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
+#### 🟩 Page 11 <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
 <p align="center">
-  <img src="assets/Overview.png" width="700"/>
+  <img src="assets/Overview.png" width="800"/>
 </p>
 
 <i> **Revenue leakage is not due to lack of demand, but due to operational inefficiencies.** </i>
