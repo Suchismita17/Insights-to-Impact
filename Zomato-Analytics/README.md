@@ -1,8 +1,26 @@
 <h2 align="center">🍽️ Zomato Revenue Intelligence & Operational Risk Analytics</h2>
+
 <p align="center">
-  Driving Growth Through Delivery Efficiency & Customer Behavior Insights
+  <img src="assets/Home_pg.png" width="750"/>
 </p>
-<p align="center"><b><i>"From Hunger to Habit — Repeat Orders Power Revenue 💪"</i></b></p>
+
+<p align="center">
+  <b><b>Explore the Multi-Page Report-Style Dashboard & Key Insights</b></b><br><br>
+
+  🏠 <a href="#home-page">Home</a> •
+  ⚠️ <a href="#operational-risk">Risk</a> •
+  🚚 <a href="#delivery-performance">Delivery</a> •
+  🍽️ <a href="#cuisine">Cuisine</a> •
+  🏪 <a href="#restaurant">Restaurant</a> •
+  💳 <a href="#payment">Payment</a> •
+  🔁 <a href="#repeat-customer">Repeat</a> •
+  🌍 <a href="#heatmap">HeatMap</a> •
+  🎯 <a href="#strategy">Strategy</a> •
+  🧠 <a href="#sentiment-analysis">Sentiment</a> •
+  📊 <a href="#summary">Summary</a>
+
+</p>
+
 
  ### 📌 Introduction
 
@@ -249,20 +267,28 @@ The dashboard follows a structured analytical flow:
 
 Each page is designed as a **decision-making unit**, combining insights with business impact.
 
+### 🏠 Home Page
+<a id="home-page"></a>
+#### 🟩 Page 1
 
-### 🟩 Page 1: Revenue Intelligence & Operational Risk Analytics (Home)
-
-📸 ![Home Page](../assets/Home_pg.png)
+<p align="center">
+  <img src="assets/Home_pg.png" width="700"/>
+</p>
 
 * ₹29.84M revenue generated, with a **37.05% refund rate**, indicating significant revenue leakage
 
  **<i>“Revenue is growing, but refund impact is increasing — signaling hidden inefficiencies.”</i>**
 
 ---
+### ⚠️ Operational Risk 
+<a id="operational-risk"></a>
+#### 🟩 Page 2
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 2: Operational Risk & Customer Behavior Analysis
 
-📸 ![Operational Risk](../assets/Operational_Risk.png)
+<p align="center">
+  <img src="assets/Operational_Risk.png" width="700"/>
+</p>
 
 This page focuses on risk identification and behavioral patterns 
 
@@ -278,10 +304,14 @@ This page focuses on risk identification and behavioral patterns
 * Limited cuisine diversity → **low market expansion potential**
 
 ---
+### 🚚 Delivery Performance
+<a id="delivery-performance"></a>
+#### 🟩 Page 3
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-## 🟩 Page 3: Delivery Performance & Delay Drivers
-
-📸 ![Delivery Performance](../assets/Delivery_Performance.png)
+<p align="center">
+  <img src="assets/Delivery_Performance.png" width="700"/>
+</p>
 
 This page provides a comprehensive analysis of delivery performance, focusing on delay patterns, refund risks, and customer experience across cities, order methods, and time.
 
@@ -293,11 +323,14 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 * Seasonal delay spikes indicate **operational bottlenecks**
 
 ---
+### 🍽️ Cuisine
+<a id="cuisine"></a>
+#### 🟩 Page 4
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 4: Cuisine Performance Analysis
-
-📸 ![Cuisine Analysis](../assets/Cuisine_Analysis.png)
-
+<p align="center">
+  <img src="assets/Cuisine_Analysis.png" width="700"/>
+</p>
 
 #### 🔍 Key Insights
 
@@ -312,10 +345,14 @@ This page provides a comprehensive analysis of delivery performance, focusing on
  **“High demand does not guarantee good experience — operational alignment is critical.”**
 
 ---
+ ### 🏪 Restaurant
+ <a id="restaurant"></a>
+ #### 🟩 Page 5
+ <p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 5: City & Restaurant Performance
-
-📸 ![Restaurant Performance](../assets/Restaurant_Performance.png)
+<p align="center">
+  <img src="assets/Restaurant_Performance.png" width="700"/>
+</p>
 
 #### 🔍 Key Insights
 
@@ -326,10 +363,14 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 * Issues are **geographically clustered**, not uniform
 
 ---
+### 💳 Payment
+<a id="payment"></a>
+#### 🟩 Page 6
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 6: Payment Behavior & Operational Impact
-
-📸 ![Payment Analysis](../assets/Payment_Analysis.png)
+<p align="center">
+  <img src="assets/Payment_Analysis.png" width="700"/>
+</p>
 
 👉 This page answers:
 “How do customers prefer to pay, and how can Zomato use this behavior to increase revenue while managing risk?”
@@ -348,10 +389,14 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 * Payment behavior influences both **revenue distribution and risk exposure**
 
 ---
+### 🔁 Repeat Customer
+<a id="repeat-customer"></a>
+#### 🟩 Page 7
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 7: Customer Loyalty & Engagement
-
-📸 ![Repeat Analysis](../assets/Repeat_Analysis.png)
+<p align="center">
+  <img src="assets/Repeat_Analysis.png" width="700"/>
+</p>
 
 #### 🔍 Key Insights
 
@@ -366,10 +411,14 @@ This page provides a comprehensive analysis of delivery performance, focusing on
 > **“Retention is strong — but dataset limits visibility into churn risk.”**
 
 ---
+### 🌍HeatMap
+<a id="heatmap"></a>
+#### 🟩 Page 8
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 8: Heat Map  Performance Metrics
-
-📸 ![Heat Map](../assets/Heat_Map.png)
+<p align="center">
+  <img src="assets/Heat_Map.png" width="700"/>
+</p>
 
 #### 🔍 Key Insights
 
@@ -383,10 +432,14 @@ This page provides a comprehensive analysis of delivery performance, focusing on
  **“Payment behavior is indirectly linked to customer experience and operational risk.”**
 
 ---
+### 🎯Strategy
+<a id="strategy"></a>
+#### 🟩 Page 9
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 9: Revenue Growth & Customer Risk Strategy
-
-📸 ![Strategy](../assets/Strategy.png)
+<p align="center">
+  <img src="assets/Strategy.png" width="700"/>
+</p>
 
 #### 🔍 Key Insights
 
@@ -401,10 +454,14 @@ This page provides a comprehensive analysis of delivery performance, focusing on
  **“Refunds are not isolated — they are driven by combined factors (delay + location + cuisine + experience).”**
 
 ---
+### 🧠Sentiment-Analysis
+<a id="sentiment-analysis"></a>
+#### 🟩 Page 10
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-### 🟩 Page 10: Customer Sentiment & Revenue Impact Analysis
-
-📸 ![Sentiment Analysis](../assets/Sentiment_Analysis.png)
+<p align="center">
+  <img src="assets/Sentiment_Analysis.png" width="700"/>
+</p>
 
 👉 This page connects **customer emotions → operational performance → revenue impact.**
 *	We start by understanding how customers feel (Positive, Negative, Neutral) 
@@ -488,9 +545,14 @@ A large neutral segment exists that:
  **<i> “Customer sentiment is not just feedback — it is a leading indicator of revenue health. Fixing customer experience directly improves profitability.”</i>**
 
 ---
-### 🟩 Page 11: 📊 Executive Summary — Business Performance Snapshot (Growth vs Risk)
+###  📊 Summary
+<a id="summary"></a>
+#### 🟩 Page 11
+<p align="right"><a href="#home-page">⬆ Back to Top</a></p>
 
-📸 ![Overview](../assets/Overview.png)
+<p align="center">
+  <img src="assets/Overview.png" width="700"/>
+</p>
 
 <i> **Revenue leakage is not due to lack of demand, but due to operational inefficiencies.** </i>
 
